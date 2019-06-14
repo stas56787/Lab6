@@ -1,0 +1,11 @@
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\лабы Вовы\FuelStationWebApi-master\FuelStationWebApi\bin\Debug\netcoreapp2.0\FuelStationWebApi.deps.json
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\лабы Вовы\FuelStationWebApi-master\FuelStationWebApi\bin\Debug\netcoreapp2.0\FuelStationWebApi.runtimeconfig.json
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\лабы Вовы\FuelStationWebApi-master\FuelStationWebApi\bin\Debug\netcoreapp2.0\FuelStationWebApi.runtimeconfig.dev.json
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\лабы Вовы\FuelStationWebApi-master\FuelStationWebApi\bin\Debug\netcoreapp2.0\FuelStationWebApi.dll
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\лабы Вовы\FuelStationWebApi-master\FuelStationWebApi\bin\Debug\netcoreapp2.0\FuelStationWebApi.pdb
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\лабы Вовы\FuelStationWebApi-master\FuelStationWebApi\obj\Debug\netcoreapp2.0\FuelStationWebApi.csprojAssemblyReference.cache
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\лабы Вовы\FuelStationWebApi-master\FuelStationWebApi\obj\Debug\netcoreapp2.0\FuelStationWebApi.csproj.CoreCompileInputs.cache
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\лабы Вовы\FuelStationWebApi-master\FuelStationWebApi\obj\Debug\netcoreapp2.0\FuelStationWebApi.AssemblyInfoInputs.cache
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\лабы Вовы\FuelStationWebApi-master\FuelStationWebApi\obj\Debug\netcoreapp2.0\FuelStationWebApi.AssemblyInfo.cs
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\лабы Вовы\FuelStationWebApi-master\FuelStationWebApi\obj\Debug\netcoreapp2.0\FuelStationWebApi.dll
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\лабы Вовы\FuelStationWebApi-master\FuelStationWebApi\obj\Debug\netcoreapp2.0\FuelStationWebApi.pdb

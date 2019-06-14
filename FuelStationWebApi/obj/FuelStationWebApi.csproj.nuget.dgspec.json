@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Универ\\3 КУРС\\2 СЕМЕСТР\\Избранные главы информатики\\лабы Вовы\\FuelStationWebApi-master\\FuelStationWebApi\\FuelStationWebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\Универ\\3 КУРС\\2 СЕМЕСТР\\Избранные главы информатики\\лабы Вовы\\FuelStationWebApi-master\\FuelStationWebApi\\FuelStationWebApi.csproj": {
+      "version": "0.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\Универ\\3 КУРС\\2 СЕМЕСТР\\Избранные главы информатики\\лабы Вовы\\FuelStationWebApi-master\\FuelStationWebApi\\FuelStationWebApi.csproj",
+        "projectName": "FuelStationWebApi",
+        "projectPath": "D:\\Универ\\3 КУРС\\2 СЕМЕСТР\\Избранные главы информатики\\лабы Вовы\\FuelStationWebApi-master\\FuelStationWebApi\\FuelStationWebApi.csproj",
+        "packagesPath": "C:\\Users\\dstas\\.nuget\\packages\\",
+        "outputPath": "D:\\Универ\\3 КУРС\\2 СЕМЕСТР\\Избранные главы информатики\\лабы Вовы\\FuelStationWebApi-master\\FuelStationWebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dstas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.9, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
